@@ -1,9 +1,8 @@
-Instaliraj pakete:
+Playwright Automatizacija koristeći TypeScript
 
+pokretanje
 
-```bash
 npm install
-
 pokreni testove: npx playwright test
 u playwright.config.ts definiran je baseURL.
 
